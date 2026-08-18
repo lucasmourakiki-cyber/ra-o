@@ -1,0 +1,6 @@
+{
+  "name": "Primora Nutrição Animal",
+  "description": "Soluções em nutrição animal para bovinocultura de corte e leite. Conheça a Primora Nutrição Animal e seus resultados a campo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
